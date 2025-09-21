@@ -1,4 +1,4 @@
-# backend-challenge
+# C#-challenge
 
 The project only has one entity and one controller. You need to leave the solution ready for future features, thinking in the scalability and future maintainability.
 
